@@ -8,9 +8,11 @@
 int main(void)
 {
   int i;
+  int a, b, c;
 
   i = 98;
   positive_or_negative(i);
+  largest_number(a, b, c);
 
   return (0);
 }
